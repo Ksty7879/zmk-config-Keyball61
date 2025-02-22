@@ -57,7 +57,7 @@ layers:
   - SNIPE
   - {t: '$$mdi:keyboard-space$$', h: MOUSE}
   - SCROLL
-  - {t: A, h: SYM}
+  - {t: B, h: SYM}
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:backspace-reverse-outline$$
