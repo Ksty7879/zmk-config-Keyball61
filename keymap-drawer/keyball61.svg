@@ -613,6 +613,10 @@ rect.held, rect.combo.held {
 <a href="#scroll">
 <text x="728" y="203" class="combo tap layer-activator">scroll</text>
 </a></g>
+<g class="combo none combopos-1">
+<rect rx="6" ry="6" x="602" y="203" width="28" height="26" class="combo none"/>
+<use href="#mdi:minus-circle-outline" xlink:href="#mdi:minus-circle-outline" x="607" y="207" height="18" width="18.0" class="combo none tap glyph mdi:minus-circle-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 398)" class="layer-NUM">
@@ -962,6 +966,10 @@ rect.held, rect.combo.held {
 <a href="#scroll">
 <text x="728" y="203" class="combo tap layer-activator">scroll</text>
 </a></g>
+<g class="combo none combopos-1">
+<rect rx="6" ry="6" x="602" y="203" width="28" height="26" class="combo none"/>
+<use href="#mdi:minus-circle-outline" xlink:href="#mdi:minus-circle-outline" x="607" y="207" height="18" width="18.0" class="combo none tap glyph mdi:minus-circle-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 796)" class="layer-fun">
@@ -1285,6 +1293,10 @@ rect.held, rect.combo.held {
 <a href="#scroll">
 <text x="728" y="203" class="combo tap layer-activator">scroll</text>
 </a></g>
+<g class="combo none combopos-1">
+<rect rx="6" ry="6" x="602" y="203" width="28" height="26" class="combo none"/>
+<use href="#mdi:minus-circle-outline" xlink:href="#mdi:minus-circle-outline" x="607" y="207" height="18" width="18.0" class="combo none tap glyph mdi:minus-circle-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1195)" class="layer-mouse">
@@ -1605,6 +1617,10 @@ rect.held, rect.combo.held {
 <a href="#scroll">
 <text x="728" y="203" class="combo tap layer-activator">scroll</text>
 </a></g>
+<g class="combo none combopos-1">
+<rect rx="6" ry="6" x="602" y="203" width="28" height="26" class="combo none"/>
+<use href="#mdi:minus-circle-outline" xlink:href="#mdi:minus-circle-outline" x="607" y="207" height="18" width="18.0" class="combo none tap glyph mdi:minus-circle-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1593)" class="layer-snipe">
@@ -1927,6 +1943,10 @@ rect.held, rect.combo.held {
 <a href="#scroll">
 <text x="728" y="203" class="combo tap layer-activator">scroll</text>
 </a></g>
+<g class="combo none combopos-1">
+<rect rx="6" ry="6" x="602" y="203" width="28" height="26" class="combo none"/>
+<use href="#mdi:minus-circle-outline" xlink:href="#mdi:minus-circle-outline" x="607" y="207" height="18" width="18.0" class="combo none tap glyph mdi:minus-circle-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1991)" class="layer-scroll">
@@ -2247,6 +2267,10 @@ rect.held, rect.combo.held {
 <a href="#scroll">
 <text x="728" y="203" class="combo tap layer-activator">scroll</text>
 </a></g>
+<g class="combo none combopos-1">
+<rect rx="6" ry="6" x="602" y="203" width="28" height="26" class="combo none"/>
+<use href="#mdi:minus-circle-outline" xlink:href="#mdi:minus-circle-outline" x="607" y="207" height="18" width="18.0" class="combo none tap glyph mdi:minus-circle-outline"/>
+</g>
 </g>
 </g>
 </svg>
