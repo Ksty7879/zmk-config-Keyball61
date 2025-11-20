@@ -34,7 +34,7 @@
         };
 
         b {
-            bindings = <&none>;
+            bindings = <&kp B>;
             key-positions = <44 45>;
         };
     };
