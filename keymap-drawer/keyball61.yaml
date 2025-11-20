@@ -376,4 +376,4 @@ combos:
 - p: [46, 47]
   k: scroll
 - p: [44, 45]
-  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+  k: B
